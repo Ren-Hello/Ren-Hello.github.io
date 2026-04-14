@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>EV3 《遥控坦克》</title>
-    <url>/2026/04/12/EV3-%E3%80%8A%E9%81%A5%E6%8E%A7%E5%9D%A6%E5%85%8B%E3%80%8B/</url>
-    <content><![CDATA[<h1 id="遥控坦克"><a href="#遥控坦克" class="headerlink" title="遥控坦克"></a>遥控坦克</h1><p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image1.jpg" alt="1"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image2.jpg" alt="2"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image3.jpg" alt="3"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image4.jpg" alt="4"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image5.jpg" alt="5"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image5.jpg"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image6.jpg" alt="6"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image7.jpg" alt="7"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image9.jpg" alt="9"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image10.jpg" alt="10"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image11.jpg" alt="11"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image12.jpg" alt="12"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image13.jpg" alt="13"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image14.jpg" alt="14"></p>
-]]></content>
-      <categories>
-        <category>贝尔编程</category>
-      </categories>
-      <tags>
-        <tag>EV3</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>EV3 《蝙蝠》</title>
     <url>/2026/04/11/EV3-%E3%80%8A%E8%9D%99%E8%9D%A0%E3%80%8B/</url>
     <content><![CDATA[<h1 id="EV3《蝙蝠》"><a href="#EV3《蝙蝠》" class="headerlink" title="EV3《蝙蝠》"></a>EV3《蝙蝠》</h1><p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233247.jpeg" alt="IMG_20260411_233247"></p>
@@ -55,6 +30,49 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2026/04/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>EV3 《遥控坦克》</title>
+    <url>/2026/04/12/EV3-%E3%80%8A%E9%81%A5%E6%8E%A7%E5%9D%A6%E5%85%8B%E3%80%8B/</url>
+    <content><![CDATA[<h1 id="遥控坦克"><a href="#遥控坦克" class="headerlink" title="遥控坦克"></a>遥控坦克</h1><p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image1.jpg" alt="1"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image2.jpg" alt="2"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image3.jpg" alt="3"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image4.jpg" alt="4"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image5.jpg" alt="5"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image5.jpg"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image6.jpg" alt="6"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image7.jpg" alt="7"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image9.jpg" alt="9"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image10.jpg" alt="10"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image11.jpg" alt="11"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image12.jpg" alt="12"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image13.jpg" alt="13"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-image14.jpg" alt="14"></p>
+]]></content>
+      <categories>
+        <category>贝尔编程</category>
+      </categories>
+      <tags>
+        <tag>EV3</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《献给阿尔吉侬的花束》</title>
     <url>/2026/04/14/%E3%80%8A%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%90%89%E4%BE%AC%E7%9A%84%E8%8A%B1%E6%9D%9F%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E5%86%99/</url>
     <content><![CDATA[<h2 id="傻瓜的蜕变："><a href="#傻瓜的蜕变：" class="headerlink" title="傻瓜的蜕变："></a>傻瓜的蜕变：</h2><p>查理·高登想要变聪明，他智力低下，社会化严重不足，被父母抛弃，以至于只能在叔叔的面包店打工，因为只有这样他才不会被送去沃伦之家（一所特殊成人学校），但他想要变聪明，空闲时间回去纪尼安小姐的特殊学校学习，学习写字、作文，尽管他都做不好。</p>
@@ -71,7 +89,7 @@
 <h3 id="爱与被爱的重合："><a href="#爱与被爱的重合：" class="headerlink" title="爱与被爱的重合："></a>爱与被爱的重合：</h3><p>查理的退化速度就像他飞速进展的智慧一样不可思议，他撕毁书本，打碎唱片，固执的保持原状，然而一切都在一点一点的消散，爱丽丝搬到出租屋照顾他，希望陪他撑过去，可是她还是跟不上，永远也跟不上，只是这一次，查理将不再聪明。最后，他赶走了爱丽丝 。母亲和爱丽丝的身影重合了，查理期许着母亲的爱，这位他人生中的第一位老师，因为痛苦、偏执将查理困在了一个封闭的心灵，爱丽丝短暂的打开过，里面一地狼藉。查理爱她，只是，他不想让爱丽丝伤心，不想变回那个痴呆的查理，不想失去那个愿望。谁的愿望？<strong>他只是想做个正常人，体会到爱与被爱。</strong></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">我很南过。因为我已经快忘了读和写。面包店的朋友们欢迎我回来。但是我不想让他们伤心。他们对我很好。赶走欺负我的人。我还想回学校看望纪尼安小姐。她是我的老师。她哭着跑了出去。我想起了一些事情。是我想变匆明的是情。我不想让纪尼安小姐伤心。我走了。我要去沃伦之家。我会像阿尔吉侬一样死在自己的粪堆里。</span><br></pre></td></tr></table></figure>
 
-<p style="text-align:center; font-weight:bold;">**“你要是有机会，请放一些花在后院的阿尔吉侬的坟上”**</p>
+<p style="text-align:center; font-weight:bold;">“你要是有机会，请放一些花在后院的阿尔吉侬的坟上”</p>
 
 <p>丹尼尔无论是对查理的心路刻画，还是在全书的叙事手法上都有独特的魅力，查理的错别字，查理的梦境，查理对纪尼尔小姐称谓的变化，查理个人的由偏执的母亲，懦弱的父亲，不懂事的妹妹，以及后来许许多多人造成的心理障碍，第一次学会阅读，第一次学会用逗号，第一次和心爱的女人接触时的喜悦，<strong>那正是我们一直唾手可得的，又是查理梦寐以求的愿望。</strong></p>
 <p>眼睛的困惑有两种，一种是走入光明，一种是走出光明。他可能想嘲笑从幽冥中走进光明的灵魂，但这总比嘲笑从光明世界回到黑暗洞穴的人更有道理。</p>
@@ -81,29 +99,6 @@
       </categories>
       <tags>
         <tag>献给阿尔吉侬的花束</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小颗粒 《小鸟投食》</title>
-    <url>/2026/04/12/%E5%B0%8F%E9%A2%97%E7%B2%92-%E3%80%8A%E5%B0%8F%E9%B8%9F%E6%8A%95%E9%A3%9F%E3%80%8B/</url>
-    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412002950846.png" alt="image-20260412002950846"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003001395.png" alt="image-20260412003001395"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003012533.png" alt="image-20260412003012533"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003024267.png" alt="image-20260412003024267"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003033168.png" alt="image-20260412003033168"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003042833.png" alt="image-20260412003042833"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003055494.png" alt="image-20260412003055494"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003104893.png" alt="image-20260412003104893"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003122737.png" alt="image-20260412003122737"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003141442.png" alt="image-20260412003141442"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003151321.png" alt="image-20260412003151321"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003201874.png" alt="image-20260412003201874"></p>
-]]></content>
-      <categories>
-        <category>贝尔编程</category>
-      </categories>
-      <tags>
-        <tag>小颗粒</tag>
       </tags>
   </entry>
   <entry>
@@ -137,21 +132,26 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2026/04/09/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>小颗粒 《小鸟投食》</title>
+    <url>/2026/04/12/%E5%B0%8F%E9%A2%97%E7%B2%92-%E3%80%8A%E5%B0%8F%E9%B8%9F%E6%8A%95%E9%A3%9F%E3%80%8B/</url>
+    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412002950846.png" alt="image-20260412002950846"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003001395.png" alt="image-20260412003001395"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003012533.png" alt="image-20260412003012533"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003024267.png" alt="image-20260412003024267"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003033168.png" alt="image-20260412003033168"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003042833.png" alt="image-20260412003042833"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003055494.png" alt="image-20260412003055494"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003104893.png" alt="image-20260412003104893"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003122737.png" alt="image-20260412003122737"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003141442.png" alt="image-20260412003141442"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003151321.png" alt="image-20260412003151321"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003201874.png" alt="image-20260412003201874"></p>
 ]]></content>
+      <categories>
+        <category>贝尔编程</category>
+      </categories>
+      <tags>
+        <tag>小颗粒</tag>
+      </tags>
   </entry>
 </search>
