@@ -26,6 +26,35 @@
       </tags>
   </entry>
   <entry>
+    <title>EV3 《蝙蝠》</title>
+    <url>/2026/04/11/EV3-%E3%80%8A%E8%9D%99%E8%9D%A0%E3%80%8B/</url>
+    <content><![CDATA[<h1 id="EV3《蝙蝠》"><a href="#EV3《蝙蝠》" class="headerlink" title="EV3《蝙蝠》"></a>EV3《蝙蝠》</h1><p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233247.jpeg" alt="IMG_20260411_233247"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233249.jpeg" alt="IMG_20260411_233249"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233253.jpeg" alt="IMG_20260411_233253"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233257.jpeg" alt="IMG_20260411_233257"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233259.jpeg" alt="IMG_20260411_233259"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233301.jpeg" alt="IMG_20260411_233301"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233305.jpeg" alt="IMG_20260411_233305"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233307.jpeg" alt="IMG_20260411_233307"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233309.jpeg" alt="IMG_20260411_233309"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233314.jpeg" alt="IMG_20260411_233314"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233311.jpeg" alt="IMG_20260411_233311"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233317.jpeg" alt="IMG_20260411_233317"></p>
+<p>🔔本周《蝙蝠》课程总结：</p>
+<p>1⃣️结构组成：蝙蝠身体、翅膀传动结构、机身底座</p>
+<p>2️⃣齿轮垂直啮合：学习球齿轮进行垂直方向上的动力传递，了解球齿轮的作用——实现多自由度与空间传动、可有效防止齿轮卡死、提升传动系统的稳定性和容错能力。</p>
+<p>3️⃣根据超声波传感器的测距原理，利用其检测前方障碍物或手部动作，触发蝙蝠翅膀的扇动。</p>
+<p>4️⃣编程：编写程序实现超声波传感器检测到物体靠近时，电机带动齿轮组使蝙蝠翅膀扇动，完成自动感应控制。</p>
+<p>孩子在课堂中表现得非常专注[强]。他对蝙蝠的拼搭充满兴趣，在搭建齿轮垂直啮合系统时能够耐心调整齿轮位置，确保传动顺畅。编程环节中，他能准确理解超声波传感器的工作原理，并完成“检测-扇动”的逻辑编写。通过反复测试与观察，他成功让蝙蝠实现感应式扇动翅膀，展现了良好的动手能力和探索精神！</p>
+]]></content>
+      <categories>
+        <category>贝尔编程</category>
+      </categories>
+      <tags>
+        <tag>EV3</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《献给阿尔吉侬的花束》</title>
     <url>/2026/04/14/%E3%80%8A%E7%8C%AE%E7%BB%99%E9%98%BF%E5%B0%94%E5%90%89%E4%BE%AC%E7%9A%84%E8%8A%B1%E6%9D%9F%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E5%86%99/</url>
     <content><![CDATA[<h2 id="傻瓜的蜕变："><a href="#傻瓜的蜕变：" class="headerlink" title="傻瓜的蜕变："></a>傻瓜的蜕变：</h2><p>查理·高登想要变聪明，他智力低下，社会化严重不足，被父母抛弃，以至于只能在叔叔的面包店打工，因为只有这样他才不会被送去沃伦之家（一所特殊成人学校），但他想要变聪明，空闲时间回去纪尼安小姐的特殊学校学习，学习写字、作文，尽管他都做不好。</p>
@@ -55,22 +84,27 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2026/04/09/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>小颗粒 《小鸟投食》</title>
+    <url>/2026/04/12/%E5%B0%8F%E9%A2%97%E7%B2%92-%E3%80%8A%E5%B0%8F%E9%B8%9F%E6%8A%95%E9%A3%9F%E3%80%8B/</url>
+    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412002950846.png" alt="image-20260412002950846"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003001395.png" alt="image-20260412003001395"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003012533.png" alt="image-20260412003012533"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003024267.png" alt="image-20260412003024267"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003033168.png" alt="image-20260412003033168"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003042833.png" alt="image-20260412003042833"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003055494.png" alt="image-20260412003055494"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003104893.png" alt="image-20260412003104893"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003122737.png" alt="image-20260412003122737"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003141442.png" alt="image-20260412003141442"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003151321.png" alt="image-20260412003151321"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003201874.png" alt="image-20260412003201874"></p>
 ]]></content>
+      <categories>
+        <category>贝尔编程</category>
+      </categories>
+      <tags>
+        <tag>小颗粒</tag>
+      </tags>
   </entry>
   <entry>
     <title>小颗粒 《小海豚》</title>
@@ -103,55 +137,21 @@
       </tags>
   </entry>
   <entry>
-    <title>EV3 《蝙蝠》</title>
-    <url>/2026/04/11/EV3-%E3%80%8A%E8%9D%99%E8%9D%A0%E3%80%8B/</url>
-    <content><![CDATA[<h1 id="EV3《蝙蝠》"><a href="#EV3《蝙蝠》" class="headerlink" title="EV3《蝙蝠》"></a>EV3《蝙蝠》</h1><p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233247.jpeg" alt="IMG_20260411_233247"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233249.jpeg" alt="IMG_20260411_233249"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233253.jpeg" alt="IMG_20260411_233253"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233257.jpeg" alt="IMG_20260411_233257"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233259.jpeg" alt="IMG_20260411_233259"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233301.jpeg" alt="IMG_20260411_233301"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233305.jpeg" alt="IMG_20260411_233305"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233307.jpeg" alt="IMG_20260411_233307"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233309.jpeg" alt="IMG_20260411_233309"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233314.jpeg" alt="IMG_20260411_233314"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233311.jpeg" alt="IMG_20260411_233311"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageIMG_20260411_233317.jpeg" alt="IMG_20260411_233317"></p>
-<p>🔔本周《蝙蝠》课程总结：</p>
-<p>1⃣️结构组成：蝙蝠身体、翅膀传动结构、机身底座</p>
-<p>2️⃣齿轮垂直啮合：学习球齿轮进行垂直方向上的动力传递，了解球齿轮的作用——实现多自由度与空间传动、可有效防止齿轮卡死、提升传动系统的稳定性和容错能力。</p>
-<p>3️⃣根据超声波传感器的测距原理，利用其检测前方障碍物或手部动作，触发蝙蝠翅膀的扇动。</p>
-<p>4️⃣编程：编写程序实现超声波传感器检测到物体靠近时，电机带动齿轮组使蝙蝠翅膀扇动，完成自动感应控制。</p>
-<p>孩子在课堂中表现得非常专注[强]。他对蝙蝠的拼搭充满兴趣，在搭建齿轮垂直啮合系统时能够耐心调整齿轮位置，确保传动顺畅。编程环节中，他能准确理解超声波传感器的工作原理，并完成“检测-扇动”的逻辑编写。通过反复测试与观察，他成功让蝙蝠实现感应式扇动翅膀，展现了良好的动手能力和探索精神！</p>
+    <title>Hello World</title>
+    <url>/2026/04/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <categories>
-        <category>贝尔编程</category>
-      </categories>
-      <tags>
-        <tag>EV3</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小颗粒 《小鸟投食》</title>
-    <url>/2026/04/12/%E5%B0%8F%E9%A2%97%E7%B2%92-%E3%80%8A%E5%B0%8F%E9%B8%9F%E6%8A%95%E9%A3%9F%E3%80%8B/</url>
-    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412002950846.png" alt="image-20260412002950846"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003001395.png" alt="image-20260412003001395"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003012533.png" alt="image-20260412003012533"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003024267.png" alt="image-20260412003024267"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003033168.png" alt="image-20260412003033168"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003042833.png" alt="image-20260412003042833"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003055494.png" alt="image-20260412003055494"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003104893.png" alt="image-20260412003104893"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003122737.png" alt="image-20260412003122737"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003141442.png" alt="image-20260412003141442"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003151321.png" alt="image-20260412003151321"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/vesperusX/image/blog-imageimage-20260412003201874.png" alt="image-20260412003201874"></p>
-]]></content>
-      <categories>
-        <category>贝尔编程</category>
-      </categories>
-      <tags>
-        <tag>小颗粒</tag>
-      </tags>
   </entry>
 </search>
